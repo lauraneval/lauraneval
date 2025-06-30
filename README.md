@@ -12,10 +12,10 @@
     <img src="https://media.tenor.com/RoLRxf8N3MIAAAAi/miku-wave.gif" height="40" />
     <br><br><br>
     
-    [![](https://img.shields.io/badge/steam-0a66c2)](https://steamcommunity.com/id/lauraneval)
-    [![](https://img.shields.io/badge/discord-6364ff)](https://discord.com/)
-    [![](https://img.shields.io/badge/osu!-ff66ab)](https://osu.ppy.sh/users/17730497)
-    [![](https://img.shields.io/badge/lauraneval-69899c)](https)
+[![](https://img.shields.io/badge/steam-0a66c2)](https://steamcommunity.com/id/lauraneval)
+[![](https://img.shields.io/badge/discord-6364ff)](https://discord.com/)
+[![](https://img.shields.io/badge/osu!-ff66ab)](https://osu.ppy.sh/users/17730497)
+[![](https://img.shields.io/badge/lauraneval-69899c)](https)
 </div>
 
 <!--
